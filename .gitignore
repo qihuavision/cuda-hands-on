@@ -1,0 +1,23 @@
+# Compiled binaries
+01_vector_add/va
+02_reduction/reduce
+03_transpose/transpose
+04_gemm/gemm_v*
+05_softmax/softmax
+
+# Build artifacts
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
